@@ -10,7 +10,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82541d8e-dbd4-47e5-becc-14b7dcad9c18" name="Default Changelist" comment="test`" />
+    <list default="true" id="82541d8e-dbd4-47e5-becc-14b7dcad9c18" name="Default Changelist" comment="test`">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/vectorcoder/androidwoocommerce/constant/ConstantValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/vectorcoder/androidwoocommerce/constant/ConstantValues.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vectorcoder/androidwoocommerce/constant/ConstantValues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+            <state relative-caret-position="90">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -448,14 +450,14 @@
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Run" order="0" weight="0.329927" />
-      <window_info active="true" anchor="bottom" id="Logcat" order="1" visible="true" weight="0.6262774" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.6262774" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Build" order="9" weight="0.329927" />
       <window_info anchor="right" id="Preview" weight="0.32970712" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -781,8 +783,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vectorcoder/androidwoocommerce/constant/ConstantValues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
