@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/transforms-2/files-2.1/087a2790aa080eeceff72bf4449becef/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,127",
+                        "endColumns": "71,64",
+                        "endOffsets": "122,187"
+                    }
+                }
+            ]
+        }
+    ]
+}

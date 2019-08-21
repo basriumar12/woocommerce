@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/res/values-xxhdpi/dimens.xml",
+                    "from": {
+                        "startLines": "2,9,30,31,32,7,34,35,23,25,24,22,21,14,16,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "19,190,891,937,983,145,1034,1085,668,768,719,614,561,324,424,375",
+                        "endColumns": "47,45,44,44,47,41,49,49,49,48,47,52,51,49,48,47",
+                        "endOffsets": "62,231,931,977,1026,182,1079,1130,713,812,762,662,608,369,468,418"
+                    },
+                    "to": {
+                        "startLines": "2,3,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,249,294,339,387,429,479,529,579,628,676,729,781,831,880",
+                        "endColumns": "46,45,44,44,47,41,49,49,49,48,47,52,51,49,48,47",
+                        "endOffsets": "97,143,289,334,382,424,474,524,574,623,671,724,776,826,875,923"
+                    }
+                },
+                {
+                    "source": "/Users/user/.gradle/caches/transforms-2/files-2.1/54c481f13078c885fb7f652f4a7e2a39/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,156,200",
+                        "endColumns": "50,49,43,42",
+                        "endOffsets": "101,151,195,238"
+                    },
+                    "to": {
+                        "startLines": "4,5,20,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "148,199,928,972",
+                        "endColumns": "50,49,43,42",
+                        "endOffsets": "194,244,967,1010"
+                    }
+                }
+            ]
+        }
+    ]
+}

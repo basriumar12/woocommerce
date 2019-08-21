@@ -1,0 +1,1101 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:44:9-52:20
+	android:grantUriPermissions
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:48:13-47
+	android:authorities
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:46:13-60
+	android:exported
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:45:13-67
+data
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:113:17-69
+	android:scheme
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:113:23-66
+manifest
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:2:1-151:12
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:2:1-151:12
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:2:1-151:12
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:2:1-151:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3a8c7ea9d4b078d566adfabf683d3d43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:2:1-32:12
+MERGED from [com.braintreepayments:card-form:3.5.0] /Users/user/.gradle/caches/transforms-2/files-2.1/b1cc126e211e398a96e476fe0accaa05/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a537f030276cdfb238d7b8a96dcc9611/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v14:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e0844a113db86d1fd3f990e0fdb765ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/087a2790aa080eeceff72bf4449becef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.bogdwellers:pinchtozoom:0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/7930170b63abac2397e2e844738fb5d5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.crystal:crystalrangeseekbar:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/54c481f13078c885fb7f652f4a7e2a39/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.apl-devs:appintro:v4.2.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3b66afc8f47b25fc685f7feab0dca15a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3db99375ae5ca5bcb4bfb280ff90ef8e/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/93e2b5ff91bf47ab9593c8991f3f5b92/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/80fb79cd5fba6554cfbbedd047d74ee4/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/f2e0b53ccba37bca1a4d5d5663c6d06c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a8565f7da5f37f4311e8fbca8c46bd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4fcdf2e5940965243e9ab45f24f20440/AndroidManifest.xml:17:1-22:12
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:2:1-108:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/user/.gradle/caches/transforms-2/files-2.1/5a53638015992cf5d007ba005f138755/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/599ba6104af48ffb8423d788b9f9c0ab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/fd9dc29f767cb5ba768a72f03e3ffdb4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/68a4fc26c0a8b59f2c011c3aaa09a817/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/3f4fe6e2287ad4a5330710a8068fadd6/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d283ea4561cc65f7b7e5329aa9b6e262/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/42d96869f59a398c799c1a40dd0cb21f/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/02933207855b05646c5f638b0f4f51f6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/24f80586aeba8159f7a671133bc9d632/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/1b3ae017edc23fda71f9d25e0f5c59e6/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/b74dab40b3079fde632bf95cc5fd8372/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/9b9e6162010170ae05d2e78180ce9d52/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4044b1c210be53f5be2403a67c1bd9d8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/d1c3b8f78530e90d25e7d8927d59e91c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a5424d97ef84def00e274cbf629958c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0beb31995decc7d88f4a3121b83378c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:2:1-28:12
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/user/.gradle/caches/transforms-2/files-2.1/b54fca3a4d10c6ddbb22aee2d364dd6c/AndroidManifest.xml:2:1-14:12
+MERGED from [hyogeun.github.com.colorratingbar:ColorRatingBar:1.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/e4deac3281315f8cb07fbb67715d2279/AndroidManifest.xml:2:1-17:12
+MERGED from [com.stripe:stripe-android:2.0.2] /Users/user/.gradle/caches/transforms-2/files-2.1/817bf1eb755b139fc90d157d92ce8f35/AndroidManifest.xml:2:1-11:12
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/ddae77c6a170465c2eb67b7ea609286b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e4de9d7c3c9221d3c85f302536392764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/dc06963184d82f2a7d0336b60e376b7e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.braintreepayments.api:core:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/bf3174581b304a6acc803e9d76de8bc5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.braintreepayments:browser-switch:0.1.7] /Users/user/.gradle/caches/transforms-2/files-2.1/2ba47a01adcb3451c9a525195f3cf3e6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:customtabs:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/6f68202e1afd86dd29aa2e935a44f7b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/5d1171e672ef1e64db42543b6f856a52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/aaae5b322f6c2e1ede09bc5d7823970c/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/af3a5f3ec3abc3a4ab8d712304ea072a/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4d3acb37df679d94f9c655a41f022a90/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/de65da082536e846420b4ad76da83c32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/db736010a2c9d8a870ff215f81c438eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3d32efc18c71c63fa628be71a19e3a38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/c5ed8f2c33101451ece34ce2963c5800/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/19a1192bace2583d4a788be4325e455b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/916661dc64a076c212c10cb12f2f9eb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/316d123ee50b00dc52d860b74e9784bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/adc43cf8f109746cd1f7cb25d802cdb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/219efc31e64ca749c86bbe61b57d719b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/247a0d5c4ee11921281527bdaa7ff64c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/b88a22a065b9a004cd17f38609aa9c94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/334a0a951056564e2306536de0e24091/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d3a3c440e1d3a45fcc49c8486b6035e3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/82050c7e4bd258a19c1819aff05784d4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0330415b90646317b737b2c6084e6455/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/dd017810cd8a0cd67c4f6f66234b7090/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a819081a9a77d80ae07903b7a1c2474a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9bddfbbf9fb9b29c9a796934f5d34c06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/45a8b9b9855aeaa347503a46d2ca7d08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/2542e49e3e3d4fc971b23209fd4e95e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/f6e7ba578f1ad5d9458b3e8c575b1315/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/3a0bfa7331dc05fa074b23f946c65e77/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/078e601aa22626b8c00799ae7d4393d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/59b063918dc38b28742f0228afe1dc22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.braintreepayments.api:visa-checkout:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4c726dcab98d8359fdedea9bda8d0168/AndroidManifest.xml:2:1-12:12
+MERGED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:2:1-26:12
+MERGED from [com.paypal.android.sdk:data-collector:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/678aad96d3847ec7d0a14f34229085cc/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/18b7545d558fd1833438a57ba28b2c97/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/2017a19317596eeee6368425ff93e04b/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:2:1-151:12
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:2:1-151:12
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:2:1-151:12
+	package
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:5:5-49
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:2:1-151:12
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:2:1-151:12
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:7:5-65
+MERGED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:9:5-65
+MERGED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:13:5-67
+MERGED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:13:5-67
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:17:5-67
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/fd9dc29f767cb5ba768a72f03e3ffdb4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/fd9dc29f767cb5ba768a72f03e3ffdb4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/02933207855b05646c5f638b0f4f51f6/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/02933207855b05646c5f638b0f4f51f6/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:23:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:10:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:10:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/user/.gradle/caches/transforms-2/files-2.1/b54fca3a4d10c6ddbb22aee2d364dd6c/AndroidManifest.xml:11:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/user/.gradle/caches/transforms-2/files-2.1/b54fca3a4d10c6ddbb22aee2d364dd6c/AndroidManifest.xml:11:5-67
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:12:5-67
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:12:5-67
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/dc06963184d82f2a7d0336b60e376b7e/AndroidManifest.xml:11:5-67
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/dc06963184d82f2a7d0336b60e376b7e/AndroidManifest.xml:11:5-67
+MERGED from [com.paypal.android.sdk:data-collector:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/678aad96d3847ec7d0a14f34229085cc/AndroidManifest.xml:11:5-67
+MERGED from [com.paypal.android.sdk:data-collector:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/678aad96d3847ec7d0a14f34229085cc/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:12:5-79
+MERGED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:12:5-79
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:25:5-79
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:22:5-79
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:9:5-79
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:9:5-79
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:11:5-79
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/user/.gradle/caches/transforms-2/files-2.1/b54fca3a4d10c6ddbb22aee2d364dd6c/AndroidManifest.xml:12:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/user/.gradle/caches/transforms-2/files-2.1/b54fca3a4d10c6ddbb22aee2d364dd6c/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:14:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:17:5-80
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:30:5-81
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:17:22-78
+application
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:22:5-149:19
+MERGED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:15:5-30:19
+MERGED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:15:5-30:19
+MERGED from [com.android.support:design:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a537f030276cdfb238d7b8a96dcc9611/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a537f030276cdfb238d7b8a96dcc9611/AndroidManifest.xml:22:5-20
+MERGED from [com.bogdwellers:pinchtozoom:0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/7930170b63abac2397e2e844738fb5d5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.bogdwellers:pinchtozoom:0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/7930170b63abac2397e2e844738fb5d5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.crystal:crystalrangeseekbar:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/54c481f13078c885fb7f652f4a7e2a39/AndroidManifest.xml:11:5-15:19
+MERGED from [com.crystal:crystalrangeseekbar:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/54c481f13078c885fb7f652f4a7e2a39/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.apl-devs:appintro:v4.2.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3b66afc8f47b25fc685f7feab0dca15a/AndroidManifest.xml:11:5-47
+MERGED from [com.github.apl-devs:appintro:v4.2.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3b66afc8f47b25fc685f7feab0dca15a/AndroidManifest.xml:11:5-47
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3db99375ae5ca5bcb4bfb280ff90ef8e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3db99375ae5ca5bcb4bfb280ff90ef8e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/93e2b5ff91bf47ab9593c8991f3f5b92/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/93e2b5ff91bf47ab9593c8991f3f5b92/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/80fb79cd5fba6554cfbbedd047d74ee4/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/80fb79cd5fba6554cfbbedd047d74ee4/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:28:5-35:19
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:49:5-106:19
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:49:5-106:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/user/.gradle/caches/transforms-2/files-2.1/5a53638015992cf5d007ba005f138755/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/user/.gradle/caches/transforms-2/files-2.1/5a53638015992cf5d007ba005f138755/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/599ba6104af48ffb8423d788b9f9c0ab/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/599ba6104af48ffb8423d788b9f9c0ab/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/fd9dc29f767cb5ba768a72f03e3ffdb4/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/fd9dc29f767cb5ba768a72f03e3ffdb4/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/3f4fe6e2287ad4a5330710a8068fadd6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/3f4fe6e2287ad4a5330710a8068fadd6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/02933207855b05646c5f638b0f4f51f6/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/02933207855b05646c5f638b0f4f51f6/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/24f80586aeba8159f7a671133bc9d632/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/24f80586aeba8159f7a671133bc9d632/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/1b3ae017edc23fda71f9d25e0f5c59e6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/1b3ae017edc23fda71f9d25e0f5c59e6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/b74dab40b3079fde632bf95cc5fd8372/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/b74dab40b3079fde632bf95cc5fd8372/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/9b9e6162010170ae05d2e78180ce9d52/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/9b9e6162010170ae05d2e78180ce9d52/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4044b1c210be53f5be2403a67c1bd9d8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4044b1c210be53f5be2403a67c1bd9d8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/d1c3b8f78530e90d25e7d8927d59e91c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/d1c3b8f78530e90d25e7d8927d59e91c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a5424d97ef84def00e274cbf629958c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a5424d97ef84def00e274cbf629958c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:12:5-26:19
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:12:5-26:19
+MERGED from [hyogeun.github.com.colorratingbar:ColorRatingBar:1.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/e4deac3281315f8cb07fbb67715d2279/AndroidManifest.xml:11:5-15:19
+MERGED from [hyogeun.github.com.colorratingbar:ColorRatingBar:1.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/e4deac3281315f8cb07fbb67715d2279/AndroidManifest.xml:11:5-15:19
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:14:5-24:19
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:14:5-24:19
+MERGED from [com.facebook.android:facebook-places:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/aaae5b322f6c2e1ede09bc5d7823970c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/aaae5b322f6c2e1ede09bc5d7823970c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/af3a5f3ec3abc3a4ab8d712304ea072a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/af3a5f3ec3abc3a4ab8d712304ea072a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4d3acb37df679d94f9c655a41f022a90/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4d3acb37df679d94f9c655a41f022a90/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:28:5-51:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d3a3c440e1d3a45fcc49c8486b6035e3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d3a3c440e1d3a45fcc49c8486b6035e3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/82050c7e4bd258a19c1819aff05784d4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/82050c7e4bd258a19c1819aff05784d4/AndroidManifest.xml:22:5-23:19
+MERGED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:19:5-24:19
+MERGED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:19:5-24:19
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/18b7545d558fd1833438a57ba28b2c97/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/18b7545d558fd1833438a57ba28b2c97/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/2017a19317596eeee6368425ff93e04b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/2017a19317596eeee6368425ff93e04b/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d3a3c440e1d3a45fcc49c8486b6035e3/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:27:9-41
+	android:fullBackupContent
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:25:9-42
+	tools:ignore
+		ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:17:9-39
+	android:icon
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:24:9-36
+		REJECTED from [com.bogdwellers:pinchtozoom:0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/7930170b63abac2397e2e844738fb5d5/AndroidManifest.xml:12:9-35
+		REJECTED from [com.crystal:crystalrangeseekbar:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/54c481f13078c885fb7f652f4a7e2a39/AndroidManifest.xml:12:9-35
+		REJECTED from [hyogeun.github.com.colorratingbar:ColorRatingBar:1.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/e4deac3281315f8cb07fbb67715d2279/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:30:9-40
+	tools:replace
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:23:9-66
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:36:9-37:54
+	android:value
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:37:13-52
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:36:20-65
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:38:9-114
+	android:value
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:38:70-112
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:38:20-69
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:42:9-130
+	android:resource
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:42:91-127
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:42:20-90
+activity#com.vectorcoder.androidwoocommerce.activities.SplashScreen
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:55:9-64:20
+	android:screenOrientation
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:57:13-49
+	android:theme
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:58:13-50
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:56:13-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:60:13-63:29
+action#android.intent.action.MAIN
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:62:27-74
+activity#com.vectorcoder.androidwoocommerce.activities.IntroScreen
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:66:9-67:20
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:66:19-91
+activity#com.vectorcoder.androidwoocommerce.activities.MainActivity
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:69:9-80:20
+	android:screenOrientation
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:72:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:73:13-55
+	android:exported
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:70:13-86
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:75:13-79:29
+action#android.intent.action.SEARCH
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:77:17-71
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:77:25-68
+category#android.intent.category.DEFAULT
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:78:17-76
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:78:27-73
+activity#com.vectorcoder.androidwoocommerce.activities.Login
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:82:9-87:20
+	android:screenOrientation
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:84:13-46
+	android:windowSoftInputMode
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:86:13-55
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:83:13-79
+activity#com.vectorcoder.androidwoocommerce.activities.Signup
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:89:9-94:20
+	android:screenOrientation
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:91:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:93:13-55
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:90:13-80
+activity#com.facebook.FacebookActivity
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:100:9-104:20
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:103:13-45
+	android:configChanges
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:102:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:101:13-57
+activity#com.braintreepayments.api.BraintreeBrowserSwitchActivity
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:109:9-117:20
+	android:launchMode
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:109:19-90
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.vectorcoder.androidecommerce.demo20.braintree
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:111:13-116:29
+action#android.intent.action.VIEW
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:112:17-69
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:112:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:115:17-78
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:115:27-75
+receiver#com.vectorcoder.androidwoocommerce.receivers.AlarmReceiver
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:123:9-130:20
+	android:enabled
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:124:13-36
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:123:19-92
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.media.action.DISPLAY_NOTIFICATION+category:name:android.intent.category.APP_MARKET
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:125:13-129:29
+category#android.intent.category.APP_MARKET
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:126:17-79
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:126:27-76
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:127:17-78
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:127:25-76
+action#android.media.action.DISPLAY_NOTIFICATION
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:128:17-84
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:128:25-81
+service#com.vectorcoder.androidwoocommerce.services.MyFirebaseMessagingService
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:135:9-139:19
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:135:18-103
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:136:13-138:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:137:17-78
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:137:25-75
+service#com.vectorcoder.androidwoocommerce.services.MyFirebaseInstanceIDService
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:141:9-145:19
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:141:18-104
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:142:13-144:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:143:17-80
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:143:25-77
+uses-sdk
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3a8c7ea9d4b078d566adfabf683d3d43/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3a8c7ea9d4b078d566adfabf683d3d43/AndroidManifest.xml:20:5-43
+MERGED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:8:5-10:41
+MERGED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:8:5-10:41
+MERGED from [com.braintreepayments:card-form:3.5.0] /Users/user/.gradle/caches/transforms-2/files-2.1/b1cc126e211e398a96e476fe0accaa05/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments:card-form:3.5.0] /Users/user/.gradle/caches/transforms-2/files-2.1/b1cc126e211e398a96e476fe0accaa05/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a537f030276cdfb238d7b8a96dcc9611/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a537f030276cdfb238d7b8a96dcc9611/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e0844a113db86d1fd3f990e0fdb765ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e0844a113db86d1fd3f990e0fdb765ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/087a2790aa080eeceff72bf4449becef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/087a2790aa080eeceff72bf4449becef/AndroidManifest.xml:20:5-44
+MERGED from [com.bogdwellers:pinchtozoom:0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/7930170b63abac2397e2e844738fb5d5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bogdwellers:pinchtozoom:0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/7930170b63abac2397e2e844738fb5d5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crystal:crystalrangeseekbar:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/54c481f13078c885fb7f652f4a7e2a39/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crystal:crystalrangeseekbar:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/54c481f13078c885fb7f652f4a7e2a39/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.apl-devs:appintro:v4.2.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3b66afc8f47b25fc685f7feab0dca15a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.apl-devs:appintro:v4.2.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3b66afc8f47b25fc685f7feab0dca15a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3db99375ae5ca5bcb4bfb280ff90ef8e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3db99375ae5ca5bcb4bfb280ff90ef8e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/93e2b5ff91bf47ab9593c8991f3f5b92/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/93e2b5ff91bf47ab9593c8991f3f5b92/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/80fb79cd5fba6554cfbbedd047d74ee4/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/80fb79cd5fba6554cfbbedd047d74ee4/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/f2e0b53ccba37bca1a4d5d5663c6d06c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/f2e0b53ccba37bca1a4d5d5663c6d06c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a8565f7da5f37f4311e8fbca8c46bd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a8565f7da5f37f4311e8fbca8c46bd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4fcdf2e5940965243e9ab45f24f20440/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4fcdf2e5940965243e9ab45f24f20440/AndroidManifest.xml:20:5-44
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:5:5-44
+MERGED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/user/.gradle/caches/transforms-2/files-2.1/5a53638015992cf5d007ba005f138755/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/user/.gradle/caches/transforms-2/files-2.1/5a53638015992cf5d007ba005f138755/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/599ba6104af48ffb8423d788b9f9c0ab/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/599ba6104af48ffb8423d788b9f9c0ab/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/fd9dc29f767cb5ba768a72f03e3ffdb4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/fd9dc29f767cb5ba768a72f03e3ffdb4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/68a4fc26c0a8b59f2c011c3aaa09a817/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/68a4fc26c0a8b59f2c011c3aaa09a817/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/3f4fe6e2287ad4a5330710a8068fadd6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/3f4fe6e2287ad4a5330710a8068fadd6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d283ea4561cc65f7b7e5329aa9b6e262/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d283ea4561cc65f7b7e5329aa9b6e262/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/42d96869f59a398c799c1a40dd0cb21f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/42d96869f59a398c799c1a40dd0cb21f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/02933207855b05646c5f638b0f4f51f6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/02933207855b05646c5f638b0f4f51f6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/24f80586aeba8159f7a671133bc9d632/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/24f80586aeba8159f7a671133bc9d632/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/1b3ae017edc23fda71f9d25e0f5c59e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/1b3ae017edc23fda71f9d25e0f5c59e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/b74dab40b3079fde632bf95cc5fd8372/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/b74dab40b3079fde632bf95cc5fd8372/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/9b9e6162010170ae05d2e78180ce9d52/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/9b9e6162010170ae05d2e78180ce9d52/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4044b1c210be53f5be2403a67c1bd9d8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4044b1c210be53f5be2403a67c1bd9d8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/d1c3b8f78530e90d25e7d8927d59e91c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/d1c3b8f78530e90d25e7d8927d59e91c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a5424d97ef84def00e274cbf629958c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a5424d97ef84def00e274cbf629958c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0beb31995decc7d88f4a3121b83378c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0beb31995decc7d88f4a3121b83378c0/AndroidManifest.xml:20:5-44
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/user/.gradle/caches/transforms-2/files-2.1/b54fca3a4d10c6ddbb22aee2d364dd6c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/user/.gradle/caches/transforms-2/files-2.1/b54fca3a4d10c6ddbb22aee2d364dd6c/AndroidManifest.xml:7:5-9:41
+MERGED from [hyogeun.github.com.colorratingbar:ColorRatingBar:1.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/e4deac3281315f8cb07fbb67715d2279/AndroidManifest.xml:7:5-9:41
+MERGED from [hyogeun.github.com.colorratingbar:ColorRatingBar:1.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/e4deac3281315f8cb07fbb67715d2279/AndroidManifest.xml:7:5-9:41
+MERGED from [com.stripe:stripe-android:2.0.2] /Users/user/.gradle/caches/transforms-2/files-2.1/817bf1eb755b139fc90d157d92ce8f35/AndroidManifest.xml:7:5-9:41
+MERGED from [com.stripe:stripe-android:2.0.2] /Users/user/.gradle/caches/transforms-2/files-2.1/817bf1eb755b139fc90d157d92ce8f35/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/ddae77c6a170465c2eb67b7ea609286b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/ddae77c6a170465c2eb67b7ea609286b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e4de9d7c3c9221d3c85f302536392764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e4de9d7c3c9221d3c85f302536392764/AndroidManifest.xml:20:5-44
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/dc06963184d82f2a7d0336b60e376b7e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/dc06963184d82f2a7d0336b60e376b7e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:core:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/bf3174581b304a6acc803e9d76de8bc5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:core:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/bf3174581b304a6acc803e9d76de8bc5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments:browser-switch:0.1.7] /Users/user/.gradle/caches/transforms-2/files-2.1/2ba47a01adcb3451c9a525195f3cf3e6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments:browser-switch:0.1.7] /Users/user/.gradle/caches/transforms-2/files-2.1/2ba47a01adcb3451c9a525195f3cf3e6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:customtabs:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/6f68202e1afd86dd29aa2e935a44f7b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/6f68202e1afd86dd29aa2e935a44f7b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/5d1171e672ef1e64db42543b6f856a52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/5d1171e672ef1e64db42543b6f856a52/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/aaae5b322f6c2e1ede09bc5d7823970c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/aaae5b322f6c2e1ede09bc5d7823970c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/af3a5f3ec3abc3a4ab8d712304ea072a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/af3a5f3ec3abc3a4ab8d712304ea072a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4d3acb37df679d94f9c655a41f022a90/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4d3acb37df679d94f9c655a41f022a90/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/de65da082536e846420b4ad76da83c32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/de65da082536e846420b4ad76da83c32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/db736010a2c9d8a870ff215f81c438eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/db736010a2c9d8a870ff215f81c438eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3d32efc18c71c63fa628be71a19e3a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3d32efc18c71c63fa628be71a19e3a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/c5ed8f2c33101451ece34ce2963c5800/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/c5ed8f2c33101451ece34ce2963c5800/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/19a1192bace2583d4a788be4325e455b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/19a1192bace2583d4a788be4325e455b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/916661dc64a076c212c10cb12f2f9eb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/916661dc64a076c212c10cb12f2f9eb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/316d123ee50b00dc52d860b74e9784bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/316d123ee50b00dc52d860b74e9784bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/adc43cf8f109746cd1f7cb25d802cdb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/adc43cf8f109746cd1f7cb25d802cdb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/219efc31e64ca749c86bbe61b57d719b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/219efc31e64ca749c86bbe61b57d719b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/247a0d5c4ee11921281527bdaa7ff64c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/247a0d5c4ee11921281527bdaa7ff64c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/b88a22a065b9a004cd17f38609aa9c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/b88a22a065b9a004cd17f38609aa9c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/334a0a951056564e2306536de0e24091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/334a0a951056564e2306536de0e24091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d3a3c440e1d3a45fcc49c8486b6035e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d3a3c440e1d3a45fcc49c8486b6035e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/82050c7e4bd258a19c1819aff05784d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/82050c7e4bd258a19c1819aff05784d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0330415b90646317b737b2c6084e6455/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0330415b90646317b737b2c6084e6455/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/dd017810cd8a0cd67c4f6f66234b7090/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/dd017810cd8a0cd67c4f6f66234b7090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a819081a9a77d80ae07903b7a1c2474a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a819081a9a77d80ae07903b7a1c2474a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9bddfbbf9fb9b29c9a796934f5d34c06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9bddfbbf9fb9b29c9a796934f5d34c06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/45a8b9b9855aeaa347503a46d2ca7d08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/45a8b9b9855aeaa347503a46d2ca7d08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/2542e49e3e3d4fc971b23209fd4e95e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/2542e49e3e3d4fc971b23209fd4e95e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/f6e7ba578f1ad5d9458b3e8c575b1315/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/f6e7ba578f1ad5d9458b3e8c575b1315/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/3a0bfa7331dc05fa074b23f946c65e77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/3a0bfa7331dc05fa074b23f946c65e77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/078e601aa22626b8c00799ae7d4393d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/078e601aa22626b8c00799ae7d4393d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/59b063918dc38b28742f0228afe1dc22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/user/.gradle/caches/transforms-2/files-2.1/59b063918dc38b28742f0228afe1dc22/AndroidManifest.xml:20:5-44
+MERGED from [com.braintreepayments.api:visa-checkout:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4c726dcab98d8359fdedea9bda8d0168/AndroidManifest.xml:8:5-10:41
+MERGED from [com.braintreepayments.api:visa-checkout:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4c726dcab98d8359fdedea9bda8d0168/AndroidManifest.xml:8:5-10:41
+MERGED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.paypal.android.sdk:data-collector:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/678aad96d3847ec7d0a14f34229085cc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.paypal.android.sdk:data-collector:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/678aad96d3847ec7d0a14f34229085cc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/18b7545d558fd1833438a57ba28b2c97/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/18b7545d558fd1833438a57ba28b2c97/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/2017a19317596eeee6368425ff93e04b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/2017a19317596eeee6368425ff93e04b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:49:13-51:57
+	android:resource
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:51:17-55
+	android:name
+		ADDED from /Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/AndroidManifest.xml:50:17-67
+activity#com.braintreepayments.api.threedsecure.ThreeDSecureWebViewActivity
+ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:18:9-20:62
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:21:9-103
+MERGED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:21:9-103
+	android:theme
+		ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:20:13-59
+	android:name
+		ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:19:13-94
+activity#com.braintreepayments.api.dropin.DropInActivity
+ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:21:9-23:64
+	android:theme
+		ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:23:13-61
+	android:name
+		ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:22:13-75
+activity#com.braintreepayments.api.dropin.AddCardActivity
+ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:24:9-26:65
+	android:theme
+		ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:26:13-62
+	android:name
+		ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:25:13-76
+activity#com.braintreepayments.api.dropin.VaultManagerActivity
+ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:27:9-29:70
+	android:theme
+		ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:29:13-67
+	android:name
+		ADDED from [com.braintreepayments.api:drop-in:3.7.1] /Users/user/.gradle/caches/transforms-2/files-2.1/87db5af4b127c039088f3d1c727c3788/AndroidManifest.xml:28:13-81
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7e1c59765e7605408aab00dc61e4d575/AndroidManifest.xml:34:19-64
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:8:5-10:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:9:9-63
+permission#com.vectorcoder.androidecommerce.demo20.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:8:5-10:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:9:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:12:22-76
+uses-permission#com.vectorcoder.androidecommerce.demo20.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:12:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:18:5-82
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/fd9dc29f767cb5ba768a72f03e3ffdb4/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/fd9dc29f767cb5ba768a72f03e3ffdb4/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/02933207855b05646c5f638b0f4f51f6/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/02933207855b05646c5f638b0f4f51f6/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:18:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:19:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:24:5-66
+MERGED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:10:5-66
+MERGED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:24:22-63
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:32:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:33:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:34:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:35:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:36:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:36:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:37:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:37:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:38:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:39:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:39:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:40:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:40:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:41:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:41:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:42:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:42:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:43:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:44:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:45:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:46:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:46:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:47:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:50:9-52:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:51:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:54:9-56:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:56:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:55:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:58:9-68:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:60:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:59:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:63:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.vectorcoder.androidecommerce.demo20
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:63:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:64:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:64:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:66:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:66:27-58
+category#com.vectorcoder.androidecommerce.demo20
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:66:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:66:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:69:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:71:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:71:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:72:9-74:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:73:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:75:9-77:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:76:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:78:9-80:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:80:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:79:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:81:9-83:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:83:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:82:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:84:9-86:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:86:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:85:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:88:9-90:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:90:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:89:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:92:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:92:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:94:9-100:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:94:19-62
+intent-filter#action:name:android.intent.action.ACTION_BOOT_COMPLETED+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:95:13-99:29
+action#android.intent.action.ACTION_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:96:17-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:96:25-83
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:98:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:98:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:101:9-105:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:101:19-63
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:102:13-104:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:103:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.8.3] /Users/user/.gradle/caches/transforms-2/files-2.1/6b93625be999f163b94fe8eafdfc0eb7/AndroidManifest.xml:103:25-81
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/user/.gradle/caches/transforms-2/files-2.1/fe62cd09631d81dc72228b4193de4de2/AndroidManifest.xml:37:17-109
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/user/.gradle/caches/transforms-2/files-2.1/5a53638015992cf5d007ba005f138755/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/user/.gradle/caches/transforms-2/files-2.1/5a53638015992cf5d007ba005f138755/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/user/.gradle/caches/transforms-2/files-2.1/5a53638015992cf5d007ba005f138755/AndroidManifest.xml:29:13-82
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/c35d22b47af51e4af1b3705ec0e5333d/AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/567afbabaf9f253075f631b65110911f/AndroidManifest.xml:28:9-32
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:41:13-43:29
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/user/.gradle/caches/transforms-2/files-2.1/bbe049bb62993a8a94766b419f350d73/AndroidManifest.xml:51:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/1b3ae017edc23fda71f9d25e0f5c59e6/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/1b3ae017edc23fda71f9d25e0f5c59e6/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/1b3ae017edc23fda71f9d25e0f5c59e6/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/user/.gradle/caches/transforms-2/files-2.1/1b3ae017edc23fda71f9d25e0f5c59e6/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/user/.gradle/caches/transforms-2/files-2.1/751087b5c33686391a1c85a6b2ae82de/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a5424d97ef84def00e274cbf629958c/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a5424d97ef84def00e274cbf629958c/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7a5424d97ef84def00e274cbf629958c/AndroidManifest.xml:24:13-58
+activity#com.paypal.android.sdk.payments.PaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:13:9-84
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:13:19-81
+activity#com.paypal.android.sdk.payments.PaymentMethodActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:14:9-90
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:14:19-87
+activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:15:9-91
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:15:19-88
+activity#com.paypal.android.sdk.payments.LoginActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:16:9-82
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:16:19-79
+activity#com.paypal.android.sdk.payments.PayPalFuturePaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:17:9-96
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:17:19-93
+activity#com.paypal.android.sdk.payments.FuturePaymentConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:18:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:18:19-94
+activity#com.paypal.android.sdk.payments.FuturePaymentInfoActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:19:9-94
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:19:19-91
+activity#com.paypal.android.sdk.payments.PayPalProfileSharingActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:20:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:20:19-94
+activity#com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:21:9-98
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:21:19-95
+service#com.paypal.android.sdk.payments.PayPalService
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7323ee10b4047e1ab8c2ea56598516f7/AndroidManifest.xml:24:13-73
+activity#com.braintreepayments.api.AndroidPayActivity
+ADDED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:15:9-17:62
+	android:theme
+		ADDED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:17:13-59
+	android:name
+		ADDED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:16:13-72
+activity#com.braintreepayments.api.GooglePaymentActivity
+ADDED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:18:9-20:62
+	android:theme
+		ADDED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:20:13-59
+	android:name
+		ADDED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:19:13-75
+service#com.braintreepayments.api.internal.AnalyticsIntentService
+ADDED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:23:9-93
+	android:name
+		ADDED from [com.braintreepayments.api:braintree:2.18.1] /Users/user/.gradle/caches/transforms-2/files-2.1/860a59a61ba3b996f0c6a3479f2d0ef1/AndroidManifest.xml:23:18-90
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/user/.gradle/caches/transforms-2/files-2.1/e22b0feaa699f6f82b23a42b310cadeb/AndroidManifest.xml:48:25-92
+uses-feature#android.hardware.camera
+ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:16:9-57
+activity#io.card.payment.CardIOActivity
+ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:20:9-22:66
+	android:configChanges
+		ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:21:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/user/.gradle/caches/transforms-2/files-2.1/a876f3ef8fe1192ea3a45e34123080fb/AndroidManifest.xml:23:19-67

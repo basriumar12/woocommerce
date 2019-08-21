@@ -1,0 +1,4 @@
+#Wed Aug 21 10:30:25 WIB 2019
+base.0=/Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.vectorcoder.androidwoocommerce.fragments.SellerDetail">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Header -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="35dp">
+
+                <com.vectorcoder.androidwoocommerce.customs.CircularImageView
+                    android:id="@+id/seller_photo"
+                    android:layout_width="96dp"
+                    android:layout_height="96dp"
+                    android:src="@drawable/profile"
+                    app:border_width="2dp"
+                    app:border_overlay="true"
+                    app:border_color="@color/white" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:id="@+id/seller_name"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textColor="@color/white" />
+
+                    <hyogeun.github.com.colorratingbarlib.ColorRatingBar
+                        android:id="@+id/product_rating_bar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:numStars="5"
+                        android:rating="0"
+                        android:stepSize="0.1"
+                        app:changeable="false"
+                        android:paddingTop="2dp"
+                        style="?android:attr/ratingBarStyleSmall"
+                        app:empty_color="@color/white"
+                        app:progress_color="@android:color/holo_orange_light" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:id="@+id/seller_email"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+                    android:textColor="@color/white" />
+
+                <Button
+                    android:id="@+id/product_cart_btn"
+                    android:layout_width="120dp"
+                    android:layout_height="35dp"
+                    android:layout_weight="0"
+                    android:text="@string/actionContactUs"
+                    android:textAllCaps="true"
+                    android:textSize="14sp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/colorAccent"
+                    android:background="@drawable/round_corner_button_white"/>
+
+            </LinearLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/related_products_recycler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp" />
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/loading_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminateTintMode="src_in"
+        android:indeterminateTint="@color/colorPrimaryLight" />
+
+    <ProgressBar
+        android:id="@+id/loading_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:indeterminateTintMode="src_in"
+        android:indeterminateTint="@color/colorPrimaryLight" />
+
+    <TextView
+        android:id="@+id/empty_record"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:text="@string/record_not_found"
+        android:textColor="@color/textColorPrimaryDark"
+        android:layout_centerInParent="true" />
+
+
+</RelativeLayout>

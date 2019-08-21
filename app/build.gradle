@@ -1,0 +1,85 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId 'com.vectorcoder.androidecommerce.demo20'
+        minSdkVersion 17
+        targetSdkVersion 28
+        versionCode 1
+        versionName '1.0'
+        multiDexEnabled true
+        manifestPlaceholders = [onesignal_app_id: "e5d57f94-87e1-4468-8db5-436e88c1d4ba", onesignal_google_project_number: "REMOTE"]
+
+    }
+    repositories {
+        mavenCentral()
+        google()
+    }
+    buildTypes {
+        debug {
+
+            debuggable true
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+    aaptOptions {
+        cruncherEnabled = false
+    }
+    productFlavors {
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support:design:28.0.0'
+    implementation 'com.android.support:cardview-v7:28.0.0'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation 'com.android.support:preference-v7:28.0.0'
+    implementation 'com.android.support:preference-v14:28.0.0'
+    implementation 'com.google.code.gson:gson:2.8.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.9.1'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.9.1'
+    implementation 'com.squareup.picasso:picasso:2.3.2'
+    implementation 'com.mcxiaoke.volley:library:1.0.19'
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.bogdwellers:pinchtozoom:0.1'
+    implementation 'com.daimajia.slider:library:1.1.5@aar'
+    implementation 'com.crystal:crystalrangeseekbar:1.1.1'
+    implementation 'com.github.apl-devs:appintro:v4.2.3'
+    implementation 'hyogeun.github.com.colorratingbar:ColorRatingBar:1.0.1'
+
+    //Payment Methods
+    implementation 'com.stripe:stripe-android:2.0.2'
+    implementation 'com.braintreepayments:card-form:3.5.0'
+    implementation 'com.braintreepayments.api:drop-in:3.7.1'
+    implementation 'com.braintreepayments.api:braintree:2.18.1'
+    implementation 'com.paypal.sdk:paypal-android-sdk:2.16.0'
+
+    implementation 'com.onesignal:OneSignal:3.8.3'
+    //implementation 'com.google.firebase:firebase-ads:17.0.0'
+    implementation 'com.google.firebase:firebase-auth:16.0.5'
+    implementation 'com.google.firebase:firebase-auth:16.0.5'
+    implementation 'com.google.firebase:firebase-messaging:17.3.4'
+    implementation 'com.google.android.gms:play-services-auth:16.0.1'
+    implementation 'com.google.android.gms:play-services-maps:16.0.0'
+    implementation 'com.google.android.gms:play-services-location:16.0.0'
+
+    /*Facebook SDK*/
+    implementation 'com.facebook.android:facebook-android-sdk:4.+'
+}
+
+apply plugin: 'com.google.gms.google-services'

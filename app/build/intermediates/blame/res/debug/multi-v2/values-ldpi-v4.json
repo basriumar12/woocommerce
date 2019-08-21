@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldpi-v4/values-ldpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/user/Desktop/mac/ecommercestore/codecanyon-21952065-android-woocommerce-universal-native-android-ecommerce/Android Woocommerce Source Code/woocommerce/app/src/main/res/values-ldpi/dimens.xml",
+                    "from": {
+                        "startLines": "2,9,30,31,32,7,34,35,23,25,24,22,21,14,16,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "19,190,891,937,983,145,1034,1085,668,768,719,614,561,324,424,375",
+                        "endColumns": "47,45,44,44,47,41,49,49,49,48,47,52,51,49,48,47",
+                        "endOffsets": "62,231,931,977,1026,182,1079,1130,713,812,762,662,608,369,468,418"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,148,193,238,286,328,378,428,478,527,575,628,680,730,779",
+                        "endColumns": "46,45,44,44,47,41,49,49,49,48,47,52,51,49,48,47",
+                        "endOffsets": "97,143,188,233,281,323,373,423,473,522,570,623,675,725,774,822"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:gravity="center_vertical"
+    android:background="@color/windowBackground">
+
+    <ImageView
+        android:id="@+id/group_product_cover"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/placeholder"
+        android:scaleType="fitCenter" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="0dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/group_product_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="@string/product_title"
+            android:textColor="@color/textColorSecondaryDark" />
+
+        <WebView
+            android:id="@+id/group_product_price_webView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:id="@+id/product_stock"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/outOfStock"
+                android:textSize="14sp"
+                android:textAlignment="viewStart"
+                android:textColor="@color/colorAccentRed"
+                android:layout_marginStart="5dp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+
+            <LinearLayout
+                android:id="@+id/product_quantity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_alignParentStart="true">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/quantity"
+                    android:textSize="14sp"
+                    android:textColor="@color/textColorSecondaryDark" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:layout_marginTop="5dp"
+                    android:layoutDirection="ltr"
+                    android:layout_gravity="end"
+                    android:background="@color/white">
+                    <android.support.v7.widget.AppCompatImageButton
+                        android:id="@+id/group_product_quantity_minusBtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_chevron_left"
+                        android:scaleType="centerInside"
+                        android:tint="@color/white"
+                        android:background="@drawable/rounded_corners_button_blue" />
+                    <TextView
+                        android:id="@+id/group_product_quantity"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:text="1"
+                        android:textSize="15sp"
+                        android:gravity="center"
+                        android:textColor="@color/textColorSecondaryDark" />
+                    <android.support.v7.widget.AppCompatImageButton
+                        android:id="@+id/group_product_quantity_plusBtn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_chevron_right"
+                        android:scaleType="centerInside"
+                        android:tint="@color/white"
+                        android:background="@drawable/rounded_corners_button_blue" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_alignParentEnd="true">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:text="@string/total_price"
+                    android:textSize="14sp"
+                    android:textColor="@color/textColorSecondaryDark" />
+                <TextView
+                    android:id="@+id/group_product_total_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:layout_marginTop="5dp"
+                    android:text="0.0"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/textColorSecondaryDark" />
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
